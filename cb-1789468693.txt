@@ -1,0 +1,1 @@
+S2_PR_ERR={"message": "Validation Failed", "errors": [{"resource": "Issue", "code": "custom", "message": "must be a collaborator"}], "documentation_url": "https://docs.github.com/rest/pulls/pulls#create-a-pull-
